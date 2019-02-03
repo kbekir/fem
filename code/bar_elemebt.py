@@ -8,3 +8,5 @@ Another test
 More Changess
 
 Cahnges to feature
+
+Hakan tarafından yapılan değişiklikler
