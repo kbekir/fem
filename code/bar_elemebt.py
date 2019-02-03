@@ -1,5 +1,5 @@
 kubi deneme1
-
+kubi deneme2
 TEsting the bar element
 
 Further testing
