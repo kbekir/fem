@@ -9,6 +9,8 @@ More Changess
 
 Cahnges to feature
 
-Hakan tarafından yapılan değişiklikler
+Hakan tarafÄ±ndan yapÄ±lan deÄŸiÅŸiklikler
 
-Hakan tarafından yapılan 2. değişiklik
+Hakan tarafÄ±ndan yapÄ±lan 2. deÄŸiÅŸiklik
+
+3. deÄŸiÅŸiklik
