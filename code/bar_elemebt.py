@@ -18,3 +18,5 @@ Hakan tarafından yapılan 2. değişiklik
 4. değişiklik
 
 Baris Commit 1
+
+Baris Commit 2
