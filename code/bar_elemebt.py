@@ -10,3 +10,5 @@ More Changess
 Cahnges to feature
 
 Hakan tarafından yapılan değişiklikler
+
+Hakan tarafından yapılan 2. değişiklik
