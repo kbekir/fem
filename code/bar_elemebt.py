@@ -1,8 +1,3 @@
-kubi deneme1
-kubi deneme2
-kubi deneme3
-kubi deneme4
-kubi deneme5
 TEsting the bar element
 
 Further testing
@@ -14,6 +9,8 @@ More Changess
 
 Cahnges to feature
 
-Hakan taraf�ndan yap�lan de�i�iklikler
+Hakan tarafından yapılan değişiklikler
 
-Hakan taraf�ndan yap�lan 2. de�i�iklik
+Hakan tarafından yapılan 2. değişiklik
+
+3. değişiklik
